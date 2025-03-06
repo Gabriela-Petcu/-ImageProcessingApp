@@ -1,4 +1,4 @@
-# -ImageProcessingApp
+# ImageProcessingApp
 A C#-based image processing tool that supports grayscale conversion, binarization, cropping, mirroring, and rotation.
 
 ImageProcessingApp is a C# application that provides multiple image processing functionalities, including grayscale conversion, binarization, cropping, mirroring, and rotation.
